@@ -43,7 +43,6 @@ Passionate about building modern, reliable, and user-focused web applications â€
 **Cloud & Infra**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?logo=awslambda&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white)
@@ -59,12 +58,9 @@ Passionate about building modern, reliable, and user-focused web applications â€
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 ## ðŸ“« Get In Touch
 
-[![Email](https://img.shields.io/badge/Email-akira.tochiro23%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:akira.tochiro23@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leandro_Akira_Tochiro-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-akira-tochiro-661a52164/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-view_site-006869)](https://akira-portfolio-dev.vercel.app)
+Email: akira.tochiro23@gmail.com
+LinkedIn: linkedin.com/in/leandro-akira-tochiro
+Portfolio: link do seu site aqui
