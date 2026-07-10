@@ -61,6 +61,8 @@ Passionate about building modern, reliable, and user-focused web applications â€
 
 ## ðŸ“« Get In Touch
 
-Email: akira.tochiro23@gmail.com
-LinkedIn: linkedin.com/in/leandro-akira-tochiro
-Portfolio: link do seu site aqui
+- Email: [akira.tochiro23@gmail.com](mailto:akira.tochiro23@gmail.com)
+
+- LinkedIn: [linkedin.com/in/leandro-akira-tochiro](https://www.linkedin.com/in/leandro-akira-tochiro-661a52164/)
+
+- Portfolio: [https://akira-portfolio-dev.vercel.app](https://akira-portfolio-dev.vercel.app) 
