@@ -1,80 +1,45 @@
-## Hi there 👋
+# Hi, I'm Akira 👋
 
-# Akira Tochiro — Full Stack Developer Portfolio
+📍 São Paulo, Brazil | 💻 Full Stack Developer | 🚀 Open to Opportunities
 
-![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black)
-![License](https://img.shields.io/badge/license-view--only-lightgrey)
+Passionate about building modern, reliable, and user-focused web applications — from React front-ends to Node.js APIs, backed by SQL and NoSQL databases, deployed on the cloud.
 
-Building modern, reliable, user-focused web applications. This is my personal portfolio — built with React, fully responsive, and available in 🇺🇸 English and 🇧🇷 Portuguese.
+## 🔭 Currently Working On
 
-🔗 **Live demo:** https://akira-portfolio-dev.vercel.app
+- **[In My Fridge](https://github.com/akiratochiro/In-My-Fridge/)** — a full-stack app that suggests recipes based on the ingredients you already have ([demo](https://in-my-fridge-liard.vercel.app))
+- **[ShortYourLink](https://github.com/akiratochiro/ShortYourLink)** — a URL shortener built with Next.js, containerized with Docker, covered by Jest tests ([demo](https://shortyourlink.onrender.com))
+- **Travel Planner** — a full-stack app for planning trips and managing itineraries (in progress)
 
-<!-- 🖼️ Screenshot: add a preview image here, e.g. -->
-<!-- ![Portfolio preview](./src/images/preview.png) -->
+## 🧰 Tech Stack
 
-## ✨ Features
+**Languages**
 
-- **Responsive design** — works smoothly on desktop, tablet, and mobile
-- **EN / PT language toggle** — all content is available in English and Portuguese
-- **Scroll animations** powered by [AOS](https://michalsnik.github.io/aos/)
-- **Dark theme** with a custom color palette
-- **Project showcase** with live demo and GitHub links for each project
-- **Tech stack section** with tooltip icons
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-## 🛠️ Built With
+**Dev & Infra**
 
-- [React](https://react.dev/) 18
-- [React Bootstrap](https://react-bootstrap.github.io/) + [Bootstrap 5](https://getbootstrap.com/)
-- [React Icons](https://react-icons.github.io/react-icons/)
-- [AOS](https://michalsnik.github.io/aos/) (Animate On Scroll)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
 
-## 📂 Project Structure
+## 📫 Get In Touch
 
-```
-src/
-├── components/       # Navbar, Header, About, Projects, ProjectCard, Contact
-├── images/           # Portfolio images and illustrations
-├── styles/           # Global CSS and color palette
-├── translations/     # content.js — all EN/PT text in one place
-└── App.js
-```
-
-## 🚀 Getting Started
-
-Clone the repository and install dependencies:
-
-```bash
-git clone https://github.com/akiratochiro/<repo-name>.git
-cd <repo-name>
-npm install
-```
-
-Run the development server:
-
-```bash
-npm start
-```
-
-The app will be available at [http://localhost:3000](http://localhost:3000).
-
-Build for production:
-
-```bash
-npm run build
-```
-
-## 🌐 Deployment
-
-This project can be deployed to any static hosting provider (Vercel, Netlify, GitHub Pages, etc.). After running `npm run build`, deploy the contents of the `build/` folder.
-
-## 📫 Contact
-
-- **Email:** akira.tochiro23@gmail.com
-- **LinkedIn:** [linkedin.com/in/leandro-akira-tochiro](https://www.linkedin.com/in/leandro-akira-tochiro-661a52164/)
-- **GitHub:** [github.com/akiratochiro](https://github.com/akiratochiro)
-
-## 📄 License
-
-This project is open source and available for reference. Feel free to explore the code, but please don't copy the content or design as your own.
+[![Email](https://img.shields.io/badge/Email-akira.tochiro23%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:akira.tochiro23@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leandro_Akira_Tochiro-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-akira-tochiro-661a52164/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-view_site-006869)](#)
