@@ -4,12 +4,29 @@
 
 Passionate about building modern, reliable, and user-focused web applications — from React front-ends to Node.js APIs, backed by SQL and NoSQL databases, deployed on the cloud. I use Claude Code daily as a real part of my development workflow — not just for speed, but for critical code review and quality.
 
+## 🚀 Featured Projects
+
+### 🗂️ [Kanbix](https://github.com/akiratochiro/kanbix) · [live demo](https://kanbix-web.vercel.app)
+A full-stack Kanban project management app inspired by Trello, Jira and ClickUp — workspaces, boards, drag-and-drop cards, checklists, labels and a per-board productivity dashboard.
+- **Monorepo** (npm workspaces) with shared TypeScript types between front-end and back-end
+- **Front-end:** Next.js 16 (App Router), React 19, TanStack Query (optimistic updates with rollback), shadcn/ui, dnd-kit
+- **Back-end:** Express 5 + Prisma + PostgreSQL in a layered architecture (routes → controllers → services → repositories), Zod validation, JWT + bcrypt, role-based access (Owner / Admin / Member), transactional reordering
+- **339 tests** — API unit tests, integration tests against a real Postgres (Jest + Supertest) and React Testing Library on the front-end
+- **Docker Compose**, **GitHub Actions** CI (API, web and Docker image jobs), deployed on Vercel + Render + Neon
+
+### 🔗 [ShortYourLink](https://github.com/akiratochiro/ShortYourLink) · [live demo](https://shortyourlink.onrender.com)
+A URL shortener with click analytics, built with Next.js 16, Prisma and PostgreSQL.
+- Anonymous sessions, per-link daily click charts, cursor-based pagination
+- Security hardening: rate limiting, SSRF guard, malicious-domain blocklist (URLhaus), CSP headers
+- Jest unit + integration tests (~86% coverage) and Playwright end-to-end tests
+- Sentry error tracking, health-check endpoint, multi-stage Docker build, deployed on Render + Neon
+
+### 🧊 [In My Fridge](https://github.com/akiratochiro/In-My-Fridge) · [live demo](https://in-my-fridge-liard.vercel.app)
+Suggests recipes based on the ingredients you already have. React (Vite) + Tailwind on the front-end, Node.js + Express on the back-end, which runs parallel requests to TheMealDB and intersects the results to support multi-ingredient search.
+
 ## 🔭 Currently Working On
 
-- **[Kanbix](https://github.com/akiratochiro/Kanbix)** — a full-stack Kanban-style project management app, built as a monorepo (npm workspaces) with Next.js (App Router) on the front-end and Node.js + Prisma + PostgreSQL on the back-end. Features JWT authentication, bcrypt password hashing, Role-Based Access Control (RBAC), Zod schema validation, database transactions, unit and integration tests (Jest + Supertest), Docker Compose, and a CI/CD pipeline with GitHub Actions.
-- **[In My Fridge](https://github.com/akiratochiro/In-My-Fridge/)** — a full-stack app that suggests recipes based on the ingredients you already have ([demo](https://in-my-fridge-liard.vercel.app))
-- **[ShortYourLink](https://github.com/akiratochiro/ShortYourLink)** — a URL shortener built with Next.js, containerized with Docker, covered by Jest tests ([demo](https://shortyourlink.onrender.com))
-- **Travel Planner** — a full-stack app for planning trips and managing itineraries (in progress)
+- **Travel Planner** — a full-stack app for planning trips and managing itineraries
 
 ## 🧰 Tech Stack
 
@@ -34,6 +51,8 @@ Passionate about building modern, reliable, and user-focused web applications �
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcnui&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?logo=reactquery&logoColor=white)
 
 **Autenticação & Validação**
 
@@ -46,11 +65,14 @@ Passionate about building modern, reliable, and user-focused web applications �
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?logo=postgresql&logoColor=black)
 
 **Testes**
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
 ![Supertest](https://img.shields.io/badge/Supertest-343434?logo=javascript&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?logo=testinglibrary&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
 
 **Cloud & DevOps**
 
@@ -59,6 +81,7 @@ Passionate about building modern, reliable, and user-focused web applications �
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=white)
 
 **IA no Desenvolvimento**
 
