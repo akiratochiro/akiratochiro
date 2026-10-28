@@ -46,13 +46,16 @@ Suggests recipes based on the ingredients you already have. React (Vite) + Tailw
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
 
 **Back-end**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?logo=springsecurity&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white)
 
 **Front-end**
 
@@ -76,6 +79,7 @@ Suggests recipes based on the ingredients you already have. React (Vite) + Tailw
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-00E599?logo=postgresql&logoColor=black)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?logo=flyway&logoColor=white)
 
 **Testes**
 
@@ -83,6 +87,7 @@ Suggests recipes based on the ingredients you already have. React (Vite) + Tailw
 ![Supertest](https://img.shields.io/badge/Supertest-343434?logo=javascript&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?logo=testinglibrary&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
+![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?logo=junit5&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-78A641) ![Testcontainers](https://img.shields.io/badge/Testcontainers-291A3F)
 
 **Cloud & DevOps**
 
@@ -92,6 +97,7 @@ Suggests recipes based on the ingredients you already have. React (Vite) + Tailw
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
 
 **IA no Desenvolvimento**
 
