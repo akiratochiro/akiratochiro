@@ -2,9 +2,19 @@
 
 📍 São José dos Campos, Brazil | 💻 Full Stack Developer | 🚀 Open to Opportunities
 
-Passionate about building modern, reliable, and user-focused web applications — from React front-ends to Node.js APIs, backed by SQL and NoSQL databases, deployed on the cloud. I use Claude Code daily as a real part of my development workflow — not just for speed, but for critical code review and quality.
+Passionate about building modern, reliable, and user-focused web applications — from React front-ends to Node.js and Java / Spring Boot APIs, backed by SQL and NoSQL databases, deployed on the cloud.
 
 ## 🚀 Featured Projects
+
+### 💰 [Life and Money](https://github.com/akiratochiro/life-and-money-api) · [web](https://github.com/akiratochiro/life-and-money-web) · [live demo](https://life-and-money-web.akira-tochiro23.workers.dev)
+
+A personal finance app with a Java back-end and a mobile-first React front-end — categories, transactions, monthly budgets, savings goals and month-by-month analytics, with a home feed ordered by what needs attention right now.
+
+- **Back-end:** Java 21 + Spring Boot 4.1, Spring Security as an OAuth2 Resource Server (short-lived JWT + rotating refresh token in an `HttpOnly` cookie), Spring Data JPA / Hibernate, PostgreSQL with Flyway migrations
+- **Domain rules:** monthly budgets with **effective dating** (changing a budget never rewrites past months), exact money arithmetic with `BigDecimal` / `NUMERIC`, and averages computed only over closed months
+- **Architecture:** package by feature with package-private repositories, dependency inversion to break a cycle between transactions and goals, domain events between features, RFC 9457 error responses
+- **Front-end:** React 19 + TypeScript + Vite, TanStack Query, Tailwind CSS 4, API types generated from the OpenAPI spec, custom SVG charts
+- **Tests & delivery:** JUnit 5, Mockito and Testcontainers against a real Postgres, GitHub Actions CI, Docker, deployed on Render + Neon + Cloudflare Workers
 
 ### 🗂️ [Kanbix](https://github.com/akiratochiro/kanbix) · [live demo](https://kanbix-web.vercel.app)
 A full-stack Kanban project management app inspired by Trello, Jira and ClickUp — workspaces, boards, drag-and-drop cards, checklists, labels and a per-board productivity dashboard.
